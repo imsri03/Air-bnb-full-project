@@ -1,0 +1,2 @@
+•	Developed predictive models using Tableau Public on Airbnb data from Seattle, analyzing the impact of various factors on rental costs and prices across different zip codes, facilitating data-driven insights for rental property owners and investors.
+•	Employed Tableau Public to conduct in-depth analysis of Seattle's Airbnb dataset, leveraging predictive modeling techniques to forecast rental costs and prices by zipcode, enabling stakeholders to make informed decisions regarding property investment and rental strategies. 
